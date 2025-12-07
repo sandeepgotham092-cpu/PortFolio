@@ -8,10 +8,17 @@
 }
 .selfcontainer{
     width: 80vw;
+    color: rgb(1, 1, 1);
+    padding: 20px 20px 20px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 backdrop-filter: blur(5px);
 -webkit-backdrop-filter: blur(5px);
 border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.selfcontainer p{
+    background-color: rgba(255, 255, 255, 0.511);
+    padding: 20px 12px 12px;
+    border-radius: 18px;
 }
 .Herocontainer img{
     width: 150px;

@@ -4,9 +4,8 @@ const Projects = () => {
   return (
     <div>
       <div className="projectcontainer"><div className="pcontainer">
-                <div><h1>About My Self</h1></div>
                 <section class="projects-section">
-  <h2 class="section-title">Projects</h2>
+  <h2 class="section-title" style={{color:"red"}}>Projects</h2>
 
   <div class="projects-grid">
 

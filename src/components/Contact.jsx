@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div>
       <section className="contact-section" id="contact">
-  <h2 className="section-title">Contact</h2>
+  <h2 className="section-title" style={{color:"red"}}>Contact</h2>
 
   <p className="contact-subtitle">
     Feel free to reach out for collaboration, opportunities or any queries!

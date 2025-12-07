@@ -10,5 +10,17 @@
 }
 .econtainer{
     width: 80vw;
+    color: rgb(250, 4, 4);
+    padding: 20px 20px 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
  
+}
+.edcontainer{
+    background-color: rgba(255, 255, 255, 0.511);
+    padding: 20px 12px 12px;
+    border-radius: 18px;
+    color: black;
 }

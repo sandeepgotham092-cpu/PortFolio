@@ -8,7 +8,7 @@ const Skills = () => {
             
         </div>
                 <section class="skills-section">
-  <h2 class="section-title">Tech Stack</h2>
+  <h2 class="section-title" style={{color:'red'}}>Tech Stack</h2>
 
   <div class="skills-grid">
 
