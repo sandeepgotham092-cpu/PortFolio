@@ -1,0 +1,14 @@
+.educationcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90vw;
+    height: 100vh;
+    text-align: center;
+    
+    
+}
+.econtainer{
+    width: 80vw;
+ 
+}

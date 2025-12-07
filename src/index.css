@@ -1,0 +1,18 @@
+
+.stack-sans-text-regular{
+  font-family: "Stack Sans Text";
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+body{
+    font-family: "Stack Sans Text";
+    font-size: 14px;
+    background: url("src/assets/Port Folio.gif");
+     background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+  background-attachment: fixed; 
+  background-color: #f0f0f0;
+  overflow-x: hidden;
+}
